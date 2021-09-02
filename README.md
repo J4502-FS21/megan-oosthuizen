@@ -1,6 +1,7 @@
 # megan-oosthuizen
  https://j4502-fs21.github.io/megan-oosthuizen/
- <!DOCTYPE html>
+
+<!DOCTYPE html>
 
  <html lang="en">
  <head>
