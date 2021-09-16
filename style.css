@@ -1,6 +1,8 @@
+head{
+  "https://fonts.googleapis.com/css2?family=Arvo:wght@400;700&display=swap" rel="stylesheet">
+}
 body {
   background:lightblue;
-  font-family: 'Roboto', sans-serif;
 }
 body {
   width: 80%;
@@ -21,5 +23,5 @@ img {
 h1 {
   font-size:50px;
   font-style: oblique;
-  font-family:"Roboto-Light"
+  font-family:"Arvo"
 }
