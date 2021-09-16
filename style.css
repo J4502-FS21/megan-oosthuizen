@@ -31,6 +31,7 @@ a {
   font-weight: lighter;
   color:darkcyan;
   font-family:"Sanchez",serif;
+  font-weight: normal;
 }
 a:hover {
   color:cyan
