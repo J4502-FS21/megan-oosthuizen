@@ -2,7 +2,8 @@
 body {
   background:lightblue;
   text-align:center;
-  font-family: 'Roboto,' sans-serif;
+  font-family: 'Roboto,' serif;
+  font-weight: 300;
 }
 
 img {
