@@ -17,7 +17,7 @@ h1 {
   border-style: dotted;
   border-width: medium;
   border-color:lightcoral;
-  font-style: 'Roboto,' oblique;
+  font-family: 'Roboto,' sans-serif;
 }
 
 ul {
