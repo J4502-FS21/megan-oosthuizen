@@ -5,7 +5,7 @@ body {
 }
 
 img {
-  width:70%
+  width:70%;
 }
 
 img {
@@ -23,5 +23,6 @@ ul {
 a {
   text-decoration: none;
   font-style: italic;
-  font-weight: bold;
+  font-weight: lighter;
+  font-color:darkcyan;
 }
