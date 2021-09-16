@@ -17,3 +17,7 @@ img {
 h1 {
   color:coral;
 }
+
+ul {
+  list-style-type: square;
+}
