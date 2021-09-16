@@ -15,7 +15,8 @@ img {
 h1 {
   color:coral;
   border-style: dotted;
-  border-color:lightcoral;
+  border-width: thin;
+  border-color:lightpink;
 }
 
 ul {
