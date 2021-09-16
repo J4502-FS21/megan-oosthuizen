@@ -18,6 +18,8 @@ h1 {
   border-style: dotted;
   border-width: medium;
   border-color:lightcoral;
+  font-family: "Roboto", sans-serif;
+  font-weight: bold;
 }
 
 ul {
