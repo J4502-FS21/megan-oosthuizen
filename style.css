@@ -1,7 +1,6 @@
 
 body {
   background:lightblue;
-  text-align: center;
 }
 body {
   width: 80%;
@@ -9,6 +8,10 @@ body {
 
 body {
   margin-top:60px
+}
+
+body {
+  text-align: center;
 }
 
 img {
