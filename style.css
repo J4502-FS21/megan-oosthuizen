@@ -1,5 +1,6 @@
 body {
   background:lightblue;
+  font-family:"Roboto," sans-serif;
 }
 body {
   width: 80%;
@@ -15,4 +16,9 @@ img {
 
 img {
   margin-left: auto;
+}
+
+h1 {
+  font-size:50px;
+  font-style: oblique;
 }
