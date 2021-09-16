@@ -2,7 +2,7 @@
 body {
   background:lightblue;
   text-align:center;
-  font-family:"Arvo",serif;
+  font-family:"Arvo", "Sanchez", "Roboto",serif;
 }
 
 img {
@@ -18,8 +18,6 @@ h1 {
   border-style: dotted;
   border-width: medium;
   border-color:lightcoral;
-  font-family:'Roboto', sans-serif;
-  font-weight: bolder;
 }
 
 ul {
