@@ -123,3 +123,12 @@ iframe {
   text-align: left;
   margin: 1rem auto;
 }
+
+.resume {
+  display:flex;
+  flex-direction: column;
+  width:70%;
+  justify-content: center;
+  padding: 10px;
+  margin: 1rem auto;
+}
