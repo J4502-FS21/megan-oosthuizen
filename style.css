@@ -29,6 +29,14 @@ h2 {
   color: #373833
 }
 
+h3 {
+  font-family: 'Open Sans', sans-serif;
+  font-weight: bold;
+  font-size: 2em;
+  margin: auto;
+  color: #E8EAE3;
+  padding: 20px;
+}
 #header {
   display: flex;
   flex-direction: column;
@@ -65,7 +73,53 @@ h2 {
 .navcontainer a:hover {
   color: #FA2742;
 }
+
 p {
   font-family: 'Open Sans', sans-serif;
   font-size: 1em;
+  padding: 20px;
+  color: #E8EAE3;
+}
+.box {
+  background-color: #373833;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  width: 100%;
+  text-align: left;
+  margin: 1rem auto;
+}
+
+.me {
+  display: flex;
+  flex-direction: column;
+  width:50%;
+  padding:10px;
+}
+
+.contact {
+  display: flex;
+  float:right;
+}
+
+a:link {
+  color:#FA2742;
+}
+
+iframe {
+  width:640px;
+  height:360px;
+  display: inline-flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+  padding: 10px;
+}
+
+.videos {
+  display: flex;
+  justify-content: center;
+  width: 100%;
+  text-align: left;
+  margin: 1rem auto;
 }
